@@ -13,6 +13,6 @@ using System.Text;
  */
 
 
-//ExtrairMapeamento.Extrair();
+ExtrairMapeamento.Extrair();
 
 GerarRepositorios.Gerar();
